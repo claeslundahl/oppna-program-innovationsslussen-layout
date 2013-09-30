@@ -3,10 +3,16 @@
 
 <layout-templates>
 	<custom>
-		<layout-template id="innovationsslussen_layout_startpage" name="IS startpage">
-			<template-path>/innovationsslussen_layout_startpage.tpl</template-path>
-			<wap-template-path>/innovationsslussen_layout_startpage.wap.tpl</wap-template-path>
-			<thumbnail-path>/innovationsslussen_layout_startpage.png</thumbnail-path>
+		<layout-template id="innovationsslussen_layout_1_2_a" name="IS 1-2 a">
+			<template-path>/innovationsslussen_layout_1_2_a.tpl</template-path>
+			<wap-template-path>/innovationsslussen_layout_1_2_a.wap.tpl</wap-template-path>
+			<thumbnail-path>/innovationsslussen_layout_1_2_a.png</thumbnail-path>
 		</layout-template>
+		<layout-template id="innovationsslussen_layout_1_3_a" name="IS 1-3 a">
+			<template-path>/innovationsslussen_layout_1_3_a.tpl</template-path>
+			<wap-template-path>/innovationsslussen_layout_1_3_a.wap.tpl</wap-template-path>
+			<thumbnail-path>/innovationsslussen_layout_1_3_a.png</thumbnail-path>
+		</layout-template>
+				
   </custom>	
 </layout-templates>
