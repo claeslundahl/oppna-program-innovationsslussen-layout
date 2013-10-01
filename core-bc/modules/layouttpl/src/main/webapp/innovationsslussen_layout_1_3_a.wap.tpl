@@ -1,4 +1,4 @@
-<div class="innovationsslussen-startpage" id="main-content" role="main">
+<div class="innovationsslussen-layout-wrap" id="main-content" role="main">
 
 	<div class="portlet-layout">
 		<div class="portlet-column portlet-column-only" id="column-1">
